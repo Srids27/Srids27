@@ -123,7 +123,7 @@
 
 <div align="center">
 
-[![](https://img.shields.io/badge/GitHub-0a2a3a?style=for-the-badge&logo=github&logoColor=7dd3fc)](https://github.com/Srids27) [![](https://img.shields.io/badge/LinkedIn-0a2a3a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc)](https://www.linkedin.com/in/sridatri-purakait-55685522a/) [![](https://img.shields.io/badge/Email-0a2a3a?style=for-the-badge&logo=gmail&logoColor=7dd3fc)](mailto:purakaitsridatri@gmail.com) [![](https://img.shields.io/badge/ARIA-0a2a3a?style=for-the-badge&logo=lightning&logoColor=7dd3fc)](https://ai-talent-acquisition-assistant.vercel.app)
+[![](https://img.shields.io/badge/GitHub-0a2a3a?style=for-the-badge&logo=github&logoColor=7dd3fc)](https://github.com/Srids27) [![](https://img.shields.io/badge/LinkedIn-0a2a3a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc)](https://www.linkedin.com/in/sridatri-purakait-55685522a/) [![](https://img.shields.io/badge/Email-0a2a3a?style=for-the-badge&logo=gmail&logoColor=7dd3fc)](mailto:purakaitsridatri@gmail.com) [![]
 
 </div>
 
