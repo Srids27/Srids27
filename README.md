@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 Who I Am
 
-<img align="right" width="180" src="https://raw.githubusercontent.com/Srids27/Srids27/main/avatar.gif">
+<img align="right" width="280" src="https://raw.githubusercontent.com/Srids27/Srids27/main/avatar.gif">
 
 - 🎓 **Title:** Final Year CSE Student @ IEM Kolkata
 - 🧰 **Stack:**
@@ -91,14 +91,6 @@
 
 <img src="https://streak-stats.demolab.com?user=Srids27&theme=nord&background=0d1117&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=6b9ab8&currStreakNum=bae6fd&sideNums=bae6fd"/>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Srids27&theme=nord&no-frame=true&no-bg=true&row=1&column=7"/>
 </div>
 
 ---
