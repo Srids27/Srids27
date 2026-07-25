@@ -96,12 +96,12 @@
 ---
 
 ## 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srids27&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srids27&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=bae6fd&area=true&hide_border=false&border_color=7dd3fc&area_color=0a2a3a&v=1" width="100%"/>
 </div>
 
 ---
+
 
 ## 🐍 Contribution Snake
 
