@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,30:0ea3a,60:0d3347,100:0d1117&height=240&section=header&text=Sridatri%20Purakait&fontSize=58&fontColor=7dd3fc&animation=twinkling&fontAlignY=38&desc=Final%20Year%20CSE%20Student%20%7C%20Python%20%7C%20AI%20%2F%20ML&descAlignY=58&descSize=17&descColor=bae6fd"/>
 
